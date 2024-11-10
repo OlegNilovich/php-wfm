@@ -1,0 +1,24 @@
+[2023-05-04 17:41:58] Текст ошибки: Too few arguments to function wfm\Router::dispatch(), 0 passed in C:\OSPanel\domains\wfm\public\index.php on line 15 and exactly 1 expected | Файл: C:\OSPanel\domains\wfm\vendor\wfm\Router.php | Строка: 25
+=================
+[2023-05-04 17:41:58] Текст ошибки: Too few arguments to function wfm\Router::dispatch(), 0 passed in C:\OSPanel\domains\wfm\public\index.php on line 15 and exactly 1 expected | Файл: C:\OSPanel\domains\wfm\vendor\wfm\Router.php | Строка: 25
+=================
+[2023-05-04 20:21:34] Текст ошибки: wfm\Router::upperCamelCase(): Return value must be of type string, none returned | Файл: C:\OSPanel\domains\wfm\vendor\wfm\Router.php | Строка: 68
+=================
+[2023-05-04 20:58:33] Текст ошибки: Class "Exeption" not found | Файл: C:\OSPanel\domains\wfm\vendor\wfm\Router.php | Строка: 38
+=================
+[2023-05-04 20:59:02] Текст ошибки: Контроллер app\controllers\admin\MainController не найден | Файл: C:\OSPanel\domains\wfm\vendor\wfm\Router.php | Строка: 38
+=================
+[2023-05-04 21:00:28] Текст ошибки: Экшен app\controllers\MainController::indexAction не найден | Файл: C:\OSPanel\domains\wfm\vendor\wfm\Router.php | Строка: 35
+=================
+[2023-05-04 21:01:47] Текст ошибки: ЭКШЕН app\controllers\MainController::indexAction НЕ НАЙДЕН | Файл: C:\OSPanel\domains\wfm\vendor\wfm\Router.php | Строка: 35
+=================
+[2023-05-04 21:02:34] Текст ошибки: ЭКШЕН app\controllers\MainController::indexAction НЕ НАЙДЕН | Файл: C:\OSPanel\domains\wfm\vendor\wfm\Router.php | Строка: 35
+=================
+[2023-05-04 21:05:13] Текст ошибки: КОНТРОЛЛЕР app\controllers\PageController НЕ НАЙДЕН | Файл: C:\OSPanel\domains\wfm\vendor\wfm\Router.php | Строка: 38
+=================
+[2023-05-04 21:13:51] Текст ошибки: ЭКШЕН app\controllers\PageController::viewAction НЕ НАЙДЕН | Файл: C:\OSPanel\domains\wfm\vendor\wfm\Router.php | Строка: 35
+=================
+[2023-05-04 21:20:11] Текст ошибки: ЭКШЕН app\controllers\admin\MainController::indexAction НЕ НАЙДЕН | Файл: C:\OSPanel\domains\wfm\vendor\wfm\Router.php | Строка: 35
+=================
+[2023-05-04 21:29:20] Текст ошибки: СТРАНИЦА НЕ НАЙДЕНА | Файл: C:\OSPanel\domains\wfm\vendor\wfm\Router.php | Строка: 43
+=================
